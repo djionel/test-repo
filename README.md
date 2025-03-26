@@ -1,2 +1,2 @@
 # test-repo
-ana are mere
+ana are două mere
